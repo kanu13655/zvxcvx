@@ -6,6 +6,7 @@ public class First {
 	{
 		// TODO Auto-generated method stub
 		System.out.println("kanhu");
+		System.out.println("kanhusczcx");
 
 	}
 
